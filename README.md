@@ -40,6 +40,12 @@ No third-party packages are required.
 * Python 3.6 or higher
 * Standard library only (no external dependencies)
 
+## Installation
+
+* 1 **Clone repo** "git clone https://github.com/aleklab/basicCalculatorThatIMadeForThisClass.git
+cd basicCalculatorThatIMadeForThisClass"
+* 2 **Run program** "python calc.py"
+
 
 **Using the Calculator**:
 
